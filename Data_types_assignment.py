@@ -1,17 +1,17 @@
 # Task no 1 (Integer)
 
 age = 26
-#print("In 5 years,you will be,",age+5)
+print("In 5 years,you will be,",age+5)
 
 # Task no 2 (String)
 
 name = "Fiza"
-#print("Hello,",name)
+print("Hello,",name)
 
 # Task no 3 ( Float)
 
 height = 1.64
-#print("Your height is",height,"meters")
+print("Your height is",height,"meters")
 
 # Task no 4 (Combined use)
 
@@ -19,7 +19,7 @@ item = "Book"
 quantity = 4
 price_per_item = 12.99
 total_cast = quantity*price_per_item
-#print("You bought 4 Books for a total of",total_cast,"dollars")
+print("You bought 4 Books for a total of",total_cast,"dollars")
 
 # Task no 5 (Challenge Yourself)
 
